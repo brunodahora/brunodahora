@@ -8,6 +8,8 @@ I am currently working as React developer and love the ecossystem. But I have al
 
 I have a Bachelor and Masters in Computer Science from USP and I live in Curitiba, Paraná in Brasil.
 
+I am a christian, married and have a daughter called Beatriz.
+
 ### 👷 What I am doing
 
 I work as Senior Frontend Developer at Pipefy, a product that helps thousands of doers to manage their processes, improver their productivity and focus on doing, instead of managing the software.
@@ -15,6 +17,18 @@ I work as Senior Frontend Developer at Pipefy, a product that helps thousands of
 There I am responsible to build new features, mantain and improve our codebase as well as mentor and help the team as a senior developer.
 
 You can read more about my main achievements and my past experiences in my linkedin page: https://www.linkedin.com/in/brunodahora/
+
+### 💻 Contributing to the community
+
+I also like to teach and contribute to the community.
+
+That is why I manage the [React CWB](https://www.meetup.com/pt-BR/ReactJS-CWB/) Meetup in my city, and have worked for a couple of years and still participate in the [Agile Curitiba](https://www.meetup.com/pt-BR/Comunidade-Agile-Curitiba/) community.
+
+I have made some presentations in some conferences and a couple of them were recorded, here are the links:
+
+- [Otimize seu bundle com Webpack 4 e Create React App - Bruno Da Hora](https://www.youtube.com/watch?v=bRbclvvaJ2k) - React Conf Brasil 2018
+- [Micro-frontens: the golden circle](https://www.youtube.com/watch?v=B0vC-RGybOY) - The Conf 2019
+- [Pare de testar seu frontend (Bruno da Hora)](https://www.youtube.com/watch?v=HO4crhqZLB0) - React Conf Brasil 2020
 
 ### 📖 What I am learning
 
@@ -39,18 +53,6 @@ Some of my hobbies and what I do in my free time are:
 - I am a "Nintendista", and love to play my Nintendo Switch
 - Play sports, currently I am playing more Tennis
 - Most recently started again to play Pokemon Trading Card Game
-
-### 💻 Other stuff
-
-I also like to teach and contribute to the community.
-
-That is why I manage the [React CWB](https://www.meetup.com/pt-BR/ReactJS-CWB/) Meetup in my city, and have worked for a couple of years and still participate in the [Agile Curitiba](https://www.meetup.com/pt-BR/Comunidade-Agile-Curitiba/) community.
-
-I have made some presentations in some conferences and a couple of them were recorded, here are the links:
-
-- [Otimize seu bundle com Webpack 4 e Create React App - Bruno Da Hora](https://www.youtube.com/watch?v=bRbclvvaJ2k) - React Conf Brasil 2018
-- [Micro-frontens: the golden circle](https://www.youtube.com/watch?v=B0vC-RGybOY) - The Conf 2019
-- [Pare de testar seu frontend (Bruno da Hora)](https://www.youtube.com/watch?v=HO4crhqZLB0) - React Conf Brasil 2020
 
 ### 📫 Contact me
 
